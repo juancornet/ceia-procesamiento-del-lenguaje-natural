@@ -42,6 +42,9 @@ Link to Colab: https://colab.research.google.com/drive/1jaQuX-_IrMseHUeFBVAk8r3r
 
 #### Ejercicio: Utilizar Embeddings + LSTM para clasificar críticas de compradores de ropa.
 
+TO-COMPLETE
+
+Link to Colab: https://colab.research.google.com/drive/1f-1kSlOb9fI9e_nLcOTeJqMAmELMc5Pb?usp=sharing
 
 ### Clase 6. Seq2Seq
 
