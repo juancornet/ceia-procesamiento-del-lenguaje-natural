@@ -23,8 +23,6 @@ Link a Colab: https://colab.research.google.com/drive/1FEDElOvoUyDhzeXhk529fSSK0
 
 #### Ejercicio: Crear sus propios vectores con Gensim basado en lo visto en clase con otro dataset.
 
-TO-COMPLETE
-
 Link a Colab: https://colab.research.google.com/drive/1rZzJV07n5yAPWgiQNnMHEa53ArAvx9_G?usp=sharing
 
 ### Clase 4. RNN
