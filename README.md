@@ -17,8 +17,6 @@ Glosario: https://towardsdatascience.com/10-nlp-terms-every-data-scientist-shoul
 
 #### Ejercicio: Contruir un bot conversacional en base a los ejemplos mostrados en clase.
 
-TO-PUT-PRETTIER
-
 Link a Colab: https://colab.research.google.com/drive/1FEDElOvoUyDhzeXhk529fSSK0WGuoryb?usp=sharing
 
 ### Clase 3. Word Embeddings
