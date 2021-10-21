@@ -41,6 +41,4 @@ Link to Colab: https://colab.research.google.com/drive/1f-1kSlOb9fI9e_nLcOTeJqMA
 
 #### Ejercicio: Construir QA Bot basado en el ejemplo del traductor pero con un dataset QA.
 
-TO-COMPLETE
-
 Link a Colab: https://colab.research.google.com/drive/1xtKrKl7BLR-_Aw_qHHyhhc4TolvSvSk-?usp=sharing
