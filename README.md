@@ -29,10 +29,7 @@ Link a Colab: https://colab.research.google.com/drive/1rZzJV07n5yAPWgiQNnMHEa53A
 
 #### Ejercicio: Utilizar otro dataset y poner en práctica la predicción de próxima palabra.
 
-TO-COMPLETE
-
 Link to Colab: https://colab.research.google.com/drive/1jaQuX-_IrMseHUeFBVAk8r3rJH9Ade3Z?usp=sharing
-
 
 ### Clase 5. LSTM
 
